@@ -1,3 +1,0 @@
-Method,Name,Error,Occurrences
-GET,/,RemoteDisconnected('Remote end closed connection without response'),33
-GET,/,"ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)",1482
